@@ -20,7 +20,7 @@
 * GRADLE
 
 ## 🧨Trouble Shooting🔫
-❗️
+❗️작성중입니다.
 
 ## Thoughts💭
 * 코드를 작성하기 전에 프레임부터 구상을 미리 해보자.
