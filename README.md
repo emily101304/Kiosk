@@ -20,7 +20,7 @@
 * GRADLE
 
 ## 🧨Trouble Shooting🔫
-❗️작성중입니다.
+❗️[Kiosk 과제 트러블슈팅](http://emily101304.tistory.com/27)
 
 ## Thoughts💭
 * 코드를 작성하기 전에 프레임부터 구상을 미리 해보자.
